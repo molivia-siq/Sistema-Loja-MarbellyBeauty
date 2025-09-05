@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+}
+
+@font-face{
+    font-family: 'marca';
+    src: url(fontes/Twilight\ Wind.ttf);
+}
+
+@font-face{
+    font-family: 'main';
+    src: url(fontes/Vonique\ 92_D.otf);
+}
+
+h1{
+    font-family: 'marca';
+    text-align: center;
+    padding-top: 25px;
+}
+
+header{
+    background-color: #d4b5ab;
+    height: 100px;
+}
+
+footer{
+    background-color: #b76c54;
+    height: 400px;
+}
+
+.an{
+    color: #643a24;
+    font-family: 'main';
+    font-size: 15px;
+    margin-top: 15px;
+    /* transition: 1s ease; */
+}
+
+.an:hover{
+    text-decoration: underline;
+    color: #643a24;
+    /* transition: 1s ease; */
+
+}
+
+main{
+    min-height: 2000px;
+}
+
+h2.d{
+    text-align: center;
+    font-family: 'main';
+    font-size: 30px;
+    color: #000000;
+    padding-top: 100px;
+}
+
+h2{
+    text-align: center;
+    font-family: 'main';
+    font-size: 20px;
+    color: #b76c54;
+    padding-top: 50px;
+}
+
+.p-form{
+    margin-bottom: 3px;
+    margin-top: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    color: #643a24;
+}
+
+.input-form{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    color: #643a24;
+    border-radius: 10px;
+    border-color: #643a24;
+}
+
+.bt-cad{
+    background-color: #d4b5ab;
+    border-radius: 10px;
+    color: #643a24;
+    font-family: 'main';
+    margin-top: 40px;
+    padding-top: 10px;
+    border: none;
+}
+
+.div-formC{
+    height: 1000px;
+    width: 70%;
+    margin: auto;
+}
+
+table{
+    width: 90%;
+    margin: auto;
+}
+
+th{
+    font-family: 'main';
+    color: #ac6551;
+    text-align: center;
+    border: 1px solid #643a24;
+}
+
+td{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    border: 1px solid #53431f;
+    text-align: center;
+}
+
+.bt-op{
+    color: #643a24;
+}
+
+.bt-op:hover{
+    color: black;
+}
+
+h3{
+    font-family: 'main';
+    font-size: 15px;
+    color: #ac6551;
+    text-align: center;
+}
+
+.f{
+    text-decoration: none;
+    color: #b76c54;
+}
+.f:hover{
+    color: #b76c54;
+}
+
+.txt-footer{
+    font-family: 'marca';
+    text-align: center;
+    padding-top: 95px;
+    font-size: 40px;
+    color: #d4b5ab;
+}
+
+.txt2-footer{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: 15px;
+    color: #643a24;
+}
+
+.img-footer{
+    padding-top: 40px;
+    height: 200px;
+    width: 206.2px;
+    margin: auto;
+}
+
+/* .color1 { #b76c54 };
+.color2 { #ecce6e };
+.color3 { #643a24 };
+.color4 { #ac6551 };
+.color5 { #d4b5ab }; */
